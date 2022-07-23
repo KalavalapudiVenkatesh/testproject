@@ -1,0 +1,3 @@
+//===============git cloning ==========
+1. git clone <repo url>
+2. git clone <repo url><preferred name>
